@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langgraph
+dataclasses
+langchain-openai
+requests
+python-dotenv
+streamlit
+langchain-google-genai
+pydantic
