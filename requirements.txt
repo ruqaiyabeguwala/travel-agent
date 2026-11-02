@@ -1,10 +1,9 @@
 langchain
 langchain-core
 langgraph
-dataclasses
-langchain-openai
-requests
+langchain-google-genai
+langchain-tavily
 python-dotenv
 streamlit
-langchain-google-genai
 pydantic
+requests
